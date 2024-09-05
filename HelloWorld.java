@@ -40,7 +40,7 @@ public class HelloWorld {
         //Lab03:
         // System.out.println("Nhập vào độ dài cạnh của khối lập phương: ");
         // int number = scanner.nextInt();
-        // System.out.println("Thể tích khối lập phương là: " + Math.pow(3, number));
+        // System.out.println("Thể tích khối lập phương là: " + Math.pow(number,3));
         // scanner.close();
     }
 }
